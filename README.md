@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manfred-Leitgeb
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, jQuery, PHP, MySQL, VUE.js
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, jQuery, PHP, MySQL/MariaDB, VUE.js, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
